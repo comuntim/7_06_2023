@@ -18,4 +18,4 @@ https://hub.docker.com/repository/docker/timfej/exam_01_07_06_2023/general - Ð´Ð
 ![image](https://github.com/comuntim/7_06_2023/assets/125384600/9e9d2b21-35cc-4d5e-ac03-7cc96c296f70)
 ![image](https://github.com/comuntim/7_06_2023/assets/125384600/dcfa9f85-49bb-473b-80bb-6a9b5817b6dc)
 ![image](https://github.com/comuntim/7_06_2023/assets/125384600/eca12c68-0256-451c-8050-0b9cce2cbbbe)
-![image](https://github.com/comuntim/7_06_2023/assets/125384600/8eb7ab6c-b0cc-4a26-b2d7-fd65c01d79b1)
+![image](https://github.com/comuntim/7_06_2023/assets/125384600/08fe13cd-38bd-4ec5-8b2a-c5900e8bfeab)
