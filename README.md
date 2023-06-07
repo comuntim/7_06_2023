@@ -3,6 +3,7 @@
 Зашел в папку с директоией проекта
 Чтобы инициализировать директироию написал команту `git init`
 Добавил все файлы командой `git add .`
+закомитил `git commit -m "added files"
 Создал ветку и перешел в нее `git checkout -b exam_01_07_06_2023-1`
 Привязался удаленно к гиту `git remote add origin https://github.com/comuntim/7_06_2023.git`
 Запушил на гит `git push -u origin exam_01_07_06_2023-1`
